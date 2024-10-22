@@ -1,9 +1,5 @@
-# Probabilistic Graphical Model Cours repository
+# Probabilistic Graphical Model Course Repository
 
-In this repository you will find some notebooks with examples and exercises used in the course __C2 of Optimitzation techniques for Computer Vision__ of [the Master in Computer Vision](https://mcv.uab.cat/c2-optimization-and-inference-techniques-cv/]).
+Welcome to the repository for the Probabilistic Graphical Model course, part of the __C2 Optimization Techniques for Computer Vision__ module in the [Master in Computer Vision](https://mcv.uab.cat/c2-optimization-and-inference-techniques-cv/]).
 
-The notebooks are taken and adapted from resources gathered from the web. All credits are given to the original authors.
-
-
-
-
+In this repository, you will find a collection of notebooks featuring examples and exercises used throughout the course. These notebooks are adapted from various online resources, with full credit given to the original authors.
